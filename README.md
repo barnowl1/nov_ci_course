@@ -1,3 +1,5 @@
+![Windows, maxOS, Linux](https://github.com/barnowl1/nov_ci_course/workflows/Windows,%20maxOS,%20Linux/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
