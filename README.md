@@ -1,5 +1,7 @@
 ![Windows, maxOS, Linux](https://github.com/barnowl1/nov_ci_course/workflows/Windows,%20maxOS,%20Linux/badge.svg)
 
+![Python 3.6-3.9](https://github.com/barnowl1/nov_ci_course/workflows/Python%203.6-3.9/badge.svg)
+
 # OxRSE Continuous Integration course
 
 This project contains a small Python project. We are going to use free cloud services to automate:
